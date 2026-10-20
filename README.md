@@ -1,4 +1,11 @@
-# 🖱️ Virtual Mouse — Contrôle par Gestes de la Main
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Virtual Mouse" width="100%">
+  </picture>
+</div>
+
+<!-- 🎞️ Ajoute ici un GIF de démo : docs/demo.gif  ->  ![démo](docs/demo.gif) -->
 
 > Application Python de souris virtuelle utilisant **OpenCV**, **MediaPipe** et **PyAutoGUI**  
 > Prête pour un portfolio professionnel · Architecture modulaire · Bien documentée
