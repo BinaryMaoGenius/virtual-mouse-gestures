@@ -209,3 +209,7 @@ Ce projet démontre les compétences suivantes :
 ---
 
 *Projet créé avec ❤️ — Architecture modulaire Python · OpenCV · MediaPipe · PyAutoGUI*
+
+## Licence
+
+Code sous [licence MIT](./LICENSE) · © 2026 Emmanuel Elisé Koné.
